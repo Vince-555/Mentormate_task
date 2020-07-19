@@ -1,0 +1,6 @@
+D:\c#course\OtherExercises\Mentormate\Mentormate\bin\Debug\Mentormate.exe.config
+D:\c#course\OtherExercises\Mentormate\Mentormate\bin\Debug\Mentormate.exe
+D:\c#course\OtherExercises\Mentormate\Mentormate\bin\Debug\Mentormate.pdb
+D:\c#course\OtherExercises\Mentormate\Mentormate\obj\Debug\Mentormate.csprojAssemblyReference.cache
+D:\c#course\OtherExercises\Mentormate\Mentormate\obj\Debug\Mentormate.exe
+D:\c#course\OtherExercises\Mentormate\Mentormate\obj\Debug\Mentormate.pdb
